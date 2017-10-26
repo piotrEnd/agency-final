@@ -256,8 +256,8 @@ p {
 }
 
 .slide2 {
-	background-image: url(img/slide2.jpg);
-	background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.7)), url(img/slide2.jpg);
+/*	background-image: url(img/slide2.jpg);*/
+	background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)), url(img/slide2.jpg);
 	color: #fff;
 	text-align: center;
 }
@@ -306,7 +306,7 @@ p {
 	margin-top: 4rem;
 }
 
-/*SECTION ABOUT*/				/*reusable? from intro*/
+/*SECTION ABOUT*/				
 .about {
 	height: 50rem;
 	background-image: url(img/about_office.jpg);
