@@ -1,9 +1,16 @@
-# agency-final
+## agency-final
+----
+Converting [random psd-template](https://symu.co/freebies/templates-4/interactive-agency-psd-template/) and compiling it into code. As tool I tried [Avocode](https://avocode.com/) at free-trial. Main focus  lies on css-structure and reusable parts of code. 
 
-As exercise for converting a PSD template to html/css + for testing purposes using free-trial of avocode.
+Please >> [visit here](https://piotrend.github.io/agency-final/ ) <<
 
-* PSD template source: https://symu.co/freebies/templates-4/interactive-agency-psd-template/
-* Avocode: https://avocode.com/
 
-Visit at: https://piotrend.github.io/agency-final/
-Result: Definitely not perfect. A few upgrades still needed. 
+> *October, 2017*
+
+
+| technology stack  |
+| --- 		       |
+| HTML 	       |
+| CSS 	 	       |
+| Avocode |
+| gmaps.js 	       |
